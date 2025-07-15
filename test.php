@@ -1,2 +1,2 @@
 <?php
-echo "test" . PHP_EOL;
+echo "Hello TTEST!" . PHP_EOL;
